@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: -15px;
+    text-align: center;
+    border: 1px solid wheat;
+}
+
+h2 {
+    color:rgb(3, 94, 38);
+    text-decoration: underline;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.list {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin-left: -15px;
+    text-align: center;
+    border: 1px solid wheat;
+    margin-bottom: 2px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    background-color:rgb(177, 191, 202);
+}
+
+button {
+    border: 1px solid tomato;
+    background-color: wheat;
+    border-radius: 30px;
+    padding: 5px;
+    margin: 10px
+}
+
+button:hover {
+    background-color: darkgrey;
+}
