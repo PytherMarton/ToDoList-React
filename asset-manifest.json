@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PytherMarton/ToDoList-React/static/css/main.b9cc22a1.css",
+    "main.js": "/PytherMarton/ToDoList-React/static/js/main.8838d67b.js",
+    "index.html": "/PytherMarton/ToDoList-React/index.html",
+    "main.b9cc22a1.css.map": "/PytherMarton/ToDoList-React/static/css/main.b9cc22a1.css.map",
+    "main.8838d67b.js.map": "/PytherMarton/ToDoList-React/static/js/main.8838d67b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9cc22a1.css",
+    "static/js/main.8838d67b.js"
+  ]
+}
